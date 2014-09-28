@@ -1,0 +1,40 @@
+
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+.wrapper {
+	width: 700px;
+	margin: 0px auto;
+}
+
+.quote-add {
+	border: 1px solid black;
+}
+
+.quote-feed, .side-bar, h1{
+	display: inline-block;
+}
+
+label {
+	display: block;
+}
+
+.side-bar {
+	vertical-align: top;
+}
+
+.quotes {
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid black;
+}
+
+.favorites {
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid black;
+
+
+}
